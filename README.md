@@ -3,6 +3,8 @@ This is a set of custom LabVIEW MATLAB code for measurement, data analysis and s
 
 To use the code, see specific instructions inside each file for details.
 
+******************************************************************************
+
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -14,3 +16,12 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
+
+******************************************************************************
+The PD(SuppData1)_new.vi file was created in LabVIEW (version 2018) and test in PC with Windows 10 64-bit operating system.
+The other Matlab codes were developed and tested in Matlab (version R2023a, The MathWorks).  Data Acquisition Toolbox is required to control other hardare with the Multifunction I/O Device. Software compatibility was verified for PCs with Windows 10 64-bit operating systems.
+******************************************************************************
+Refer to https://download.ni.com/support/manuals/375845b.pdf for the installation of LabVIEW.
+Refer to https://www.mathworks.com/help/install/ for the installation of Matlab.
+******************************************************************************
+License of using this package (refer to 'LICENSE'): 
